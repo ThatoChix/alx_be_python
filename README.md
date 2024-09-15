@@ -1,4 +1,3 @@
-# alx_be_python
 # basic_operations.py
 
 # Define the two variables
